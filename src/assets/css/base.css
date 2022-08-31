@@ -1,0 +1,8 @@
+html {
+  font-family: "PingFang SC", PingFangSC, "微软雅黑", "Microsoft YaHei",
+    "\5FAE\8F6F\96C5\9ED1", AlibabaPuHuiTi;
+}
+html,
+body {
+  min-width: 800px;
+}
